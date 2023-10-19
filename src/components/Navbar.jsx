@@ -3,7 +3,7 @@ import React from 'react'
 function Navbar() {
   return (
     <>
-    <div  style={{width:"1328px", height:"70px", position:"relative",top:"20px", left:"58px", alignItems: 'center', gap: '191px', display: 'inline-flex'}}>
+    <div style={{width:"1328px", height:"70px", position:"relative",top:"20px", left:"58px", alignItems: 'center', gap: '191px', display: 'inline-flex'}}>
 
       <div style={{ justifyContent: 'flex-start', alignItems: 'center', gap: '12px', display: 'flex' }}>
         <div style={{ width: '70px', height: '70px', justifyContent: 'center', alignItems: 'center', display: 'flex' }}>
