@@ -3,13 +3,13 @@ import React from 'react'
 function Header() {
   return (
     <>
-    <div style={{width:"100%",background:"#FFFFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", overflow:"clip"}}>
+    <div style={{width:"1440px",background:"#FFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", justifyContent:"center", alignItems:"center" ,overflow:"hidden"}}>
 
     <div style={{width: 1104, height: 264, left: 678, top: 466, position: 'absolute', background: '#EDF0FF', borderRadius: 440}}></div>
 
     <img className='img-fluid' style={{width: 735, height: 532, left:608, top: 212, position: 'absolute'}} src="./assets/container.png"/>
 
-    <div style={{left: "50px", top: '0px', position: 'absolute', textAlign: 'center', color: '#7990FB', fontSize: 250, fontFamily: 'Satoshi', fontWeight: '900', wordWrap: 'break-word'}}>LOGISTICS</div>
+    <div style={{left: "50px", top: '0px', position: 'absolute', textAlign: 'center', color: '#7990FB', fontSize: 250, fontFamily: 'Satoshi', fontWeight: '900', wordWrap: 'break-word', width:"1340px"}}>LOGISTICS</div>
 
     <div style={{width: 488, left: 68, top: 492, position: 'absolute', color: '#292D32', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>The best ever support your logistics needs, we provide you with cutting edge logistics solution</div>
 
