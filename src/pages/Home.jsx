@@ -1,6 +1,7 @@
 import React from 'react'
 import Navbar from '../components/Navbar'
 import Header from '../components/Header'
+import Services from '../components/Services'
 import '../styles/Home.css'
 
 function Home() {
@@ -9,6 +10,7 @@ function Home() {
     {/* <div id='wrapper'> */}
     <Navbar/>
     <Header/>
+    {/* <Services/> */}
     {/* </div> */}
     </>
   )
