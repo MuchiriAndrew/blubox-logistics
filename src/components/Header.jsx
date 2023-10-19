@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <>
-    <div style={{width: '100%', height: '100%', position: 'absolute', top:"150px", left:"0", display:"inline-flex"}}>
+    <div style={{width: '100%', height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", overflow:"hidden"}}>
 
     <div style={{width: 1104, height: 264, left: 678, top: 466, position: 'absolute', background: '#EDF0FF', borderRadius: 440}}></div>
 
@@ -47,6 +47,10 @@ function Header() {
         </svg>
 
         <div style={{textAlign: 'center', color: '#B9C5FF', fontSize: 64, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>CUSTOM</div>
+
+        <svg width="48" height="46" viewBox="0 0 48 46" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M24 0L29.0912 18.121L48 23L29.0912 27.879L24 46L18.9088 27.879L0 23L18.9088 18.121L24 0Z" fill="white"/>
+        </svg>
     </div>
 
     <div style={{width: 712, left: 68, top: 362, position: 'absolute', color: '#292D32', fontSize: 40, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>Efficient Logistics Solutions for Seamless Supply Chain Management</div>
