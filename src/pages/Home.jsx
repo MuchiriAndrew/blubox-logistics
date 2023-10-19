@@ -10,7 +10,7 @@ function Home() {
     {/* <div id='wrapper'> */}
     <Navbar/>
     <Header/>
-    {/* <Services/> */}
+    <Services/>
     {/* </div> */}
     </>
   )
