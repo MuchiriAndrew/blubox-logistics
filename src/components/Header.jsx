@@ -3,7 +3,7 @@ import React from 'react'
 function Header() {
   return (
     <>
-    <div style={{width: '100%', background:"#FFFFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", overflow:"hidden"}}>
+    <div style={{width:"100%",background:"#FFFFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", overflow:"clip"}}>
 
     <div style={{width: 1104, height: 264, left: 678, top: 466, position: 'absolute', background: '#EDF0FF', borderRadius: 440}}></div>
 
