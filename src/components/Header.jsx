@@ -3,8 +3,8 @@ import React from 'react'
 function Header() {
   return (
     <>
-    <div style={{width:"1782px", maxWidth:"1440px" ,background:"#FFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", justifyContent:"center", alignItems:"center" ,overflow:"hidden"}}>
-    {/* <div style={{width:"1440px", maxWidth:"1782px" ,background:"#FFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", justifyContent:"center", alignItems:"center" ,overflow:"hidden"}}> */}
+    <div style={{width:"1782px", maxWidth:"1440px", background:"#FFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", justifyContent:"center", alignItems:"center" ,overflow:"hidden"}}>
+    {/* <div style={{minWidth:"max-content", maxWidth:"1782px", width:"1782px" ,background:"#FFFF",height:'898px', position: 'absolute', top:"150px", left:"0", display:"inline-flex", justifyContent:"center", alignItems:"center", overflow:"clip"}}> */}
 
     <div style={{width: 1104, height: 264, left: 678, top: 466, position: 'absolute', background: '#EDF0FF', borderRadius: 440}}></div>
 
