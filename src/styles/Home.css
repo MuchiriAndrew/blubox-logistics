@@ -1,6 +1,7 @@
-/* #wrapper {
+#wrapper {
+    width: 100%;
     background: aqua;
     display: flex;
     justify-content: center;
     align-items: center;
-} */
+}
