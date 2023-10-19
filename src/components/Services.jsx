@@ -44,9 +44,6 @@ function Services() {
     <div style={{width: 387, left: 471, top: 602, position: 'absolute', color: '#292D32', fontSize: 16, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Watch your shipment make its way to you. we provide you with real time tracking so you can know where your shipment has been to.</div>
     <div style={{width: 357, left: 916, top: 602, position: 'absolute', color: '#292D32', fontSize: 16, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}> Do not panic about loosing your shipment, we have got you covered with our insurance policy.</div>
 
-
-    {/* <div className='bg-success' style={{width: 480.65 , height: 206.86 , left: 537.18, top: 107.99, position: 'relative',}}> */}
-
       <svg style={{position:"absolute",top:"207.1px", left:"503px"}} width="51" height="84" viewBox="0 0 51 84" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M25.6061 23.9715L31.8746 41.9336L49.5905 48.8672L31.6284 55.1357L24.6948 72.8516L18.4264 54.8895L0.710394 47.9559L18.6725 41.6875L25.6061 23.9715Z" fill="#7990FB"/>
       <path d="M18.2197 9.28304L20.6863 16.3509L27.6573 19.0792L20.5895 21.5457L17.8612 28.5168L15.3946 21.4489L8.42359 18.7206L15.4914 16.2541L18.2197 9.28304Z" fill="#FDBB76"/>
@@ -59,8 +56,6 @@ function Services() {
       <svg style={{position:"absolute",top:"360.75px", left:"993.12px"}} width="21" height="24" viewBox="0 0 21 24" fill="none" xmlns="http://www.w3.org/2000/svg">
       <path d="M11.0673 21.93C9.07845 24.6844 4.73282 23.6198 3.97705 20.193L0.694756 5.31042C0.0601086 2.43281 2.52565 -0.0386316 5.34257 0.65148L17.2625 3.57172C20.0794 4.26183 21.3751 7.65472 19.7049 9.96769L11.0673 21.93Z" fill="#101828"/>
       </svg>
-
-    {/* </div> */}
 </div>
     </>
   )
