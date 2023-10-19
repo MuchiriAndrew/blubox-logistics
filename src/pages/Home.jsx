@@ -1,9 +1,11 @@
 import React from 'react'
+import Navbar from '../components/Navbar'
+import '../styles/Home.css'
 
 function Home() {
   return (
     <>
-    <h1 className='text-primary'>Hello World</h1>
+    <Navbar/>
     </>
   )
 }
