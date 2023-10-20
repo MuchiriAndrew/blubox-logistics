@@ -1,7 +1,9 @@
 #wrapper {
     width: 100%;
-    background: aqua;
+    height: 100%;
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
+    background: pink;
 }
