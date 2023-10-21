@@ -1,0 +1,11 @@
+#email2::placeholder {
+    color:rgba(41, 45, 50, 0.80);
+    font-size: 16px;
+    font-family: quicksand;
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#email2:focus {
+    outline: none;
+}

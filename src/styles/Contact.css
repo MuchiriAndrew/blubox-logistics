@@ -1,0 +1,28 @@
+#contactworld {
+    background-image: url('../../public/assets/Group.svg');
+    background-size: cover;
+}
+
+#email::placeholder {
+    color: #b2b2b2;
+    font-size: 20px;
+    font-family: quicksand;
+    font-weight: 400;
+    letter-spacing: 0.20px;
+    word-wrap: break-word;
+}
+#message::placeholder {
+    color: #b2b2b2;
+    font-size: 20px;
+    font-family: quicksand;
+    font-weight: 400;
+    letter-spacing: 0.20px;
+    word-wrap: break-word;
+}
+
+#message:focus {
+    outline: none;
+}
+#email:focus {
+    outline: none;
+}

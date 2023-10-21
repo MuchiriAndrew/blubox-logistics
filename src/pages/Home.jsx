@@ -5,6 +5,8 @@ import Services from '../components/Services'
 import Tracking from '../components/Tracking'
 import WhyChoose from '../components/WhyChoose'
 import People from '../components/People'
+import Contact from '../components/Contact'
+import Footer from '../components/Footer'
 import '../styles/Home.css'
 
 function Home() {
@@ -17,6 +19,8 @@ function Home() {
       <Tracking />
       <WhyChoose />
       <People />
+      <Contact />
+      <Footer />
     {/* </div> */}
     </>
   )
