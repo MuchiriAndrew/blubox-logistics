@@ -12,16 +12,16 @@ import '../styles/Home.css'
 function Home() {
   return (
     <>
-    {/* <div id='wrapper'> */}
+    <div id='wrapper'>
       <Navbar/>
-      <Header/>
+      <Header />
       <Services/>
       <Tracking />
       <WhyChoose />
       <People />
       <Contact />
       <Footer />
-    {/* </div> */}
+    </div>
     </>
   )
 }

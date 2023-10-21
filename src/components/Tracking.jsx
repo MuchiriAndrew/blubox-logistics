@@ -48,9 +48,10 @@ function Tracking() {
 
       <div style={{width: 376, left: 689, top: 262, position: 'absolute', color: '#292D32', fontSize: 40, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>You can track your shipment real time</div>
       <div style={{width: 505, left: 689, top: 392, position: 'absolute', color: '#292D32', fontSize: 16, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>You can track your shipment real time by making use of our mobile application for easy and seamless tracking anywhere, anytime.</div>
-      <div style={{paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 689, top: 478, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
+
+      <a href='/' style={{textDecoration:"none", paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 689, top: 478, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
       <div style={{textAlign: 'center', color: 'white', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '500', wordWrap: 'break-word'}}>Get started</div>
-      </div>
+      </a>
 
 
       <div style={{width: 697.86, height: 465, left: 566, top: 901, position: 'absolute'}}>
@@ -59,9 +60,10 @@ function Tracking() {
       </div>
       <div style={{width: 544, left: 566, top: 1396, position: 'absolute', color: '#292D32', fontSize: 40, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>Manage your shipments seamlessly and effortlessly</div>
       <div style={{width: 505, left: 566, top: 1526, position: 'absolute', color: '#292D32', fontSize: 16, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>You can now view, manage and track your shipments seamlessly and effortlessly through your dashboard</div>
-      <div style={{paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 566, top: 1612, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
+
+      <a href='/' style={{textDecoration:"none", paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 566, top: 1612, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
       <div style={{textAlign: 'center', color: 'white', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '500', wordWrap: 'break-word'}}>Get started</div>
-      </div>
+      </a>
     </div>
     </>
   )

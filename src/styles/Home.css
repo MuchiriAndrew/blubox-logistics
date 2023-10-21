@@ -1,9 +1,14 @@
 #wrapper {
-    width: 100%;
-    height: 100%;
+    width: 1440px;
+    height: 6643px;
+    position: relative;
+    background: #FBFBFB;
+}
+
+/* #outer {
+    width: 100vw;
+    height: auto;
     display: flex;
-    flex-direction: column;
     justify-content: center;
     align-items: center;
-    background: pink;
-}
+} */

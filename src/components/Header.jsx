@@ -14,17 +14,17 @@ function Header() {
 
     <div style={{width: 488, left: 68, top: 492, position: 'absolute', color: '#292D32', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>The best ever support your logistics needs, we provide you with cutting edge logistics solution</div>
 
-    <div style={{paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 68, top: 576, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
+    <a href='/' style={{textDecoration:"none", paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 68, top: 576, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
         <div style={{textAlign: 'center', color: 'white', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '500', wordWrap: 'break-word'}}>Get Started</div>
-    </div>
+    </a>
 
-    <div style={{left: 257, top: 592, position: 'absolute', justifyContent: 'flex-start', alignItems: 'center', gap: 5, display: 'inline-flex'}}>
+    <a href='/' style={{textDecoration:"none", left: 257, top: 592, position: 'absolute', justifyContent: 'flex-start', alignItems: 'center', gap: 5, display: 'inline-flex'}}>
         <div style={{textAlign: 'center', color: '#7990FB', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '500', wordWrap: 'break-word'}}>Learn more</div>
         <svg width="24" height="25" viewBox="0 0 24 25" fill="none" xmlns="http://www.w3.org/2000/svg">
         <path d="M14.43 6.42999L20.5 12.5L14.43 18.57" stroke="#7990FB" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
         <path d="M3.5 12.5H20.33" stroke="#7990FB" stroke-width="1.5" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
         </svg>
-    </div>
+    </a>
 
 
 

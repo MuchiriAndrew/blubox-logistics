@@ -17,7 +17,7 @@ function WhyChoose() {
     </div>
 
 
-    <div style={{paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 75, top: 456, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
+    <a href='/' style={{textDecoration:"none", paddingLeft: 30, paddingRight: 30, paddingTop: 16, paddingBottom: 16, left: 75, top: 456, position: 'absolute', background: '#7990FB', boxShadow: '0px 2px 20px rgba(121, 144, 251, 0.25)', borderRadius: 50, border: '1px #848586 solid', justifyContent: 'flex-start', alignItems: 'flex-start', gap: 20, display: 'inline-flex'}}>
 
         <div style={{textAlign: 'center', color: 'white', fontSize: 20, fontFamily: 'Quicksand', fontWeight: '500', wordWrap: 'break-word'}}>Learn More</div>
 
@@ -29,7 +29,7 @@ function WhyChoose() {
         </svg>
 
         </div>
-    </div>
+    </a>
 
     <svg style={{position:"absolute", top:"544", left:"320"}} width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
     <path d="M9.97525 0.179282L12.4418 7.24714L19.4128 9.97542L12.345 12.442L9.61669 19.413L7.15013 12.3451L0.179117 9.61686L7.24697 7.15029L9.97525 0.179282Z" fill="#FDBB76"/>

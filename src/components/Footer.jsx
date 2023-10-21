@@ -33,16 +33,28 @@ function Footer() {
 
 
     <div style={{width: 370.03, left: 972.71, top: 45, position: 'absolute', color: '#181818', fontSize: 40, fontFamily: 'Quicksand', fontWeight: '600', wordWrap: 'break-word'}}>Join our newsletter</div>
-    <div style={{width: 52.15, left: 471.59, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>Home</div>
-    <div style={{width: 74.21, left: 578, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>About us</div>
-    <div style={{width: 61.17, left: 706, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Service</div>
-    <div style={{width: 47.13, left: 821, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Track</div>
-    <div style={{width: 66.18, left: 922, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Contact </div>
+    <a href='/' style={{textDecoration:"none", width: 52.15, left: 471.59, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>Home</a>
+    <a href='/' style={{textDecoration:"none", width: 74.21, left: 578, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>About us</a>
+    <a href='/' style={{textDecoration:"none", width: 61.17, left: 706, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Service</a>
+    <a href='/' style={{textDecoration:"none", width: 47.13, left: 821, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Track</a>
+    <a href='/' style={{textDecoration:"none", width: 66.18, left: 922, top: 393, position: 'absolute', textAlign: 'center', color: 'black', fontSize: 18, fontFamily: 'Quicksand', fontWeight: '400', wordWrap: 'break-word'}}>Contact </a>
     <div style={{width: 42.12, height: 41.35, paddingLeft: 3.51, paddingRight: 3.51, paddingTop: 5.17, paddingBottom: 5.17, left: 917, top: 56, position: 'absolute', justifyContent: 'center', alignItems: 'center', display: 'inline-flex'}}>
         <img src="../assets/Message.svg" alt='message'/>
     </div>
 
     <img style={{width: 266, height: 213, left: 79, top: 229, position: 'absolute'}} src="../assets/forklift.svg" />
+
+    <a href="/" style={{position:"absolute", top:"394px", left:"1152px"}}>
+      <img name='facebook' src="../assets/Facebook.svg" alt="facebook" />
+    </a>
+    <a href="/" style={{position:"absolute", top:"394px", left:"1189.5px"}}>
+      <img src="../assets/Twitter.svg" alt="twitter" />
+    </a>
+    <a href="/" style={{position:"absolute", top:"394px", left:"1227px"}}>
+      <img src="../assets/Instagram.svg" alt="instagram" />
+    </a>
+
+
 </div>
     </>
   )

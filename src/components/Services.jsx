@@ -3,7 +3,7 @@ import React from 'react'
 function Services() {
   return (
     <>
-    <div className='' style={{width: '1316px', height: '718px', position: 'absolute', top:"1026px", left:"68px"}}>
+    <div className='' style={{width: '1316px', height: '718px', position:"absolute", top:"1026px", left:"68px"}}>
 
     <div style={{width: 488, left: 0, top: 300, position: 'absolute', color: '#292D32', fontSize: 20, fontFamily: 'Satoshi', fontWeight: '400', wordWrap: 'break-word'}}>Find out below what we can do to make your logistics easy and seamless.</div>
     <div style={{width: 441, left: 0, top: 220, position: 'absolute', color: '#292D32', fontSize: 40, fontFamily: 'Quicksand', fontWeight: '700', wordWrap: 'break-word'}}>Our Awesome Services</div>
