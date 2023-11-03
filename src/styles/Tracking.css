@@ -1,0 +1,227 @@
+#wrapper4 {
+    width: 1316px;
+    height: 1690px;
+    position: absolute;
+    top: 1939px;
+    left: 68px;
+}
+
+#tracking-heading {
+    width: 992px;
+    left: 162px;
+    top: 0;
+    position: absolute;
+    color: #292D32;
+    font-size: 40px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#phone-div {
+    width: 471px;
+    height: 953.56px;
+    left: 0;
+    top: 154px;
+    position: absolute;
+}
+
+#outer-phone-img {
+    width: 471px;
+    height: 953.56px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+#iphone-screen-img {
+    width: 424.77px;
+    height: 915.99px;
+    left: 23.12px;
+    top: 17.34px;
+    position: absolute;
+}
+
+#box1 {
+    width: 302px;
+    height: 321px;
+    left: 252px;
+    top: 428px;
+    position: absolute;
+}
+
+#box2 {
+    width: 409px;
+    height: 224px;
+    left: -19px;
+    top: -93px;
+    position: absolute;
+}
+
+#map-img {
+    width: 409px;
+    height: 224px;
+    left: 0;
+    top: 0;
+    position: absolute;
+    border-radius: 20px;
+    border: 1px #7990FB solid;
+}
+
+#tracking-circle {
+    position: absolute;
+    top: 97px;
+    left: 263px;
+}
+
+#inner-tracking-circle {
+    position: absolute;
+    top: 103px;
+    left: 268px;
+    z-index: 999;
+}
+
+#tracking-person-img {
+    position: absolute;
+    top: 159.08px;
+    left: 231px;
+}
+
+#remainder-path {
+    position: absolute;
+    top: 123.5px;
+    left: 249.83px;
+}
+
+#tracking-path-done {
+    position: absolute;
+    top: 51px;
+    left: 32px;
+}
+
+#subheading1 {
+    width: 376px;
+    left: 689px;
+    top: 262px;
+    position: absolute;
+    color: #292D32;
+    font-size: 40px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#tracking-text1 {
+    width: 505px;
+    left: 689px;
+    top: 392px;
+    position: absolute;
+    color: #292D32;
+    font-size: 16px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#get-started-btn3 {
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    left: 689px;
+    top: 478px;
+    position: absolute;
+    background: #7990FB;
+    box-shadow: 0px 2px 20px rgba(121, 144, 251, 0.25);
+    border-radius: 50px;
+    border: 1px #848586 solid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: inline-flex;
+}
+
+#get-started-text3 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+#ipad-div {
+    width: 697.86px;
+    height: 465px;
+    left: 566px;
+    top: 901px;
+    position: absolute;
+}
+
+#outer-ipad-img {
+    width: 697.86px;
+    height: 465px;
+    left: 0;
+    top: 0;
+    position: absolute;
+}
+
+#ipad-screen-img {
+    width: 655.07px;
+    height: 420.60px;
+    left: 20.68px;
+    top: 16.05px;
+    position: absolute;
+}
+
+#subheading2 {
+    width: 544px;
+    left: 566px;
+    top: 1396px;
+    position: absolute;
+    color: #292D32;
+    font-size: 40px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#tracking-text2 {
+    width: 505px;
+    left: 566px;
+    top: 1526px;
+    position: absolute;
+    color: #292D32;
+    font-size: 16px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#get-started-btn4 {
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 16px;
+    padding-bottom: 16px;
+    left: 566px;
+    top: 1612px;
+    position: absolute;
+    background: #7990FB;
+    box-shadow: 0px 2px 20px rgba(121, 144, 251, 0.25);
+    border-radius: 50px;
+    border: 1px #848586 solid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: inline-flex;
+}
+
+#get-started-text4 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    word-wrap: break-word;
+}
