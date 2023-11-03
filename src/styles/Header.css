@@ -1,0 +1,161 @@
+#wrapper2 {
+    width: 1782px;
+    max-width: 1440px;
+    height: 898px;
+    position: absolute;
+    top: 150px;
+    left: 0;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+#div1 {
+    width: 1104px;
+    height: 264px;
+    left: 678px;
+    top: 466px;
+    position: absolute;
+    background: #EDF0FF;
+    border-radius: 440px;
+}
+
+#container-img {
+    width: 735px;
+    height: 532px;
+    left: 610px;
+    top: 197px;
+    position: absolute;
+}
+
+#heading {
+    left: 50px;
+    top: -18px;
+    position: absolute;
+    text-align: center;
+    color: #7990FB;
+    font-size: 250px;
+    font-family: 'Satoshi';
+    font-weight: 900;
+    word-wrap: break-word;
+    width: 1340px;
+    height: 338px;
+}
+
+#header-text {
+    width: 488px;
+    left: 68px;
+    top: 492px;
+    position: absolute;
+    color: #292D32;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#get-started-btn2 {
+    text-decoration: none;
+    padding: 16px 30px;
+    left: 68px;
+    top: 576px;
+    position: absolute;
+    background: #7990FB;
+    box-shadow: 0px 2px 20px rgba(121, 144, 251, 0.25);
+    border-radius: 50px;
+    border: 1px #848586 solid;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: inline-flex;
+}
+
+#get-started-text2 {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+#learn-more-btn {
+    text-decoration: none;
+    left: 257px;
+    top: 592px;
+    position: absolute;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+    display: inline-flex;
+}
+
+#learn-more-text {
+    text-align: center;
+    color: #7990FB;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    word-wrap: break-word;
+}
+
+#slider-wrapper {
+    padding: 36px 53px;
+    left: 0;
+    top: 746px;
+    position: absolute;
+    background: #181818;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 42px;
+    display: inline-flex;
+}
+
+#cargo {
+    text-align: center;
+    color: #FFD1FA;
+    font-size: 64px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#tracking {
+    text-align: center;
+    color: #FFAB53;
+    font-size: 64px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#logistics {
+    text-align: center;
+    color: white;
+    font-size: 64px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#custom {
+    text-align: center;
+    color: #B9C5FF;
+    font-size: 64px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#header-sub-heading {
+    width: 712px;
+    left: 68px;
+    top: 362px;
+    position: absolute;
+    color: #292D32;
+    font-size: 40px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
