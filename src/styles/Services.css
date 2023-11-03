@@ -1,0 +1,187 @@
+#wrapper3 {
+    width: 1316px;
+    height: 718px;
+    position: absolute;
+    top: 1026px;
+    left: 68px;
+}
+
+#services-paragraph {
+    width: 488px;
+    left: 0;
+    top: 300px;
+    position: absolute;
+    color: #292D32;
+    font-size: 20px;
+    font-family: 'Satoshi';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#services-heading {
+    width: 441px;
+    left: 0;
+    top: 220px;
+    position: absolute;
+    color: #292D32;
+    font-size: 40px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#custom-clearance-box {
+    width: 426px;
+    height: 266px;
+    left: 0;
+    top: 452px;
+    position: absolute;
+    background: #F7F7F7;
+    border-radius: 40px;
+    border: 1px #FFAB53 solid;
+}
+
+#real-time-tracking-box {
+    width: 426px;
+    height: 266px;
+    left: 445px;
+    top: 452px;
+    position: absolute;
+    background: #F7F7F7;
+    border-radius: 40px;
+    border: 1px #B9C5FF solid;
+}
+
+#cargo-insurance-box {
+    width: 426px;
+    height: 266px;
+    left: 890px;
+    top: 452px;
+    position: absolute;
+    background: #F7F7F7;
+    border-radius: 40px;
+    border: 1px #FFD1FA solid;
+}
+
+#svg-div1 {
+    width: 54px;
+    height: 54px;
+    left: 26px;
+    top: 474px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+#svg-div2 {
+    width: 54px;
+    height: 54px;
+    left: 471px;
+    top: 474px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+#svg-div3 {
+    width: 54px;
+    height: 54px;
+    left: 916px;
+    top: 474px;
+    position: absolute;
+    justify-content: center;
+    align-items: center;
+    display: inline-flex;
+}
+
+#custom-clearance-heading {
+    left: 26px;
+    top: 555px;
+    position: absolute;
+    color: #292D32;
+    font-size: 24px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#real-time-tracking-heading {
+    left: 471px;
+    top: 555px;
+    position: absolute;
+    color: #292D32;
+    font-size: 24px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#cargo-insurance-heading {
+    left: 916px;
+    top: 555px;
+    position: absolute;
+    color: #292D32;
+    font-size: 24px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#custom-clearance-description {
+    width: 387px;
+    left: 26px;
+    top: 602px;
+    position: absolute;
+    color: #292D32;
+    font-size: 16px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#real-time-tracking-description {
+    width: 387px;
+    left: 471px;
+    top: 602px;
+    position: absolute;
+    color: #292D32;
+    font-size: 16px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#cargo-insurance-description {
+    width: 357px;
+    left: 916px;
+    top: 602px;
+    position: absolute;
+    color: #292D32;
+    font-size: 16px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#stars {
+    position: absolute;
+    top: 207.1px;
+    left: 503px;
+}
+
+#line {
+    position: absolute;
+    top: 117.99px;
+    left: 537.18px;
+}
+
+#arrow {
+    position: absolute;
+    top: 360.75px;
+    left: 993.12px;
+}
+
+
+
