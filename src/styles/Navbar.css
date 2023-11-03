@@ -1,0 +1,141 @@
+#wrapper1 {
+    width: 1328px;
+    height: 70px;
+    position: absolute;
+    top: 20px;
+    left: 58px;
+    align-items: center;
+    gap: 191px;
+    display: inline-flex;
+}
+
+#outer-div {
+    justify-content: flex-start;
+    align-items: center;
+    gap: 12px;
+    display: flex;
+}
+
+#inner-div {
+    width: 70px;
+    height: 70px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+#logolink {
+    width: 70px;
+    height: 70px;
+    position: relative;
+    text-decoration: none;
+}
+
+#logotext {
+    text-align: center;
+    color: black;
+    font-size: 24px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+    text-decoration: none;
+}
+
+#nav-outer-div {
+    justify-content: flex-start;
+    align-items: center;
+    gap: 80px;
+    display: flex;
+}
+
+#home {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand';
+    font-weight: 700;
+    word-wrap: break-word;
+}
+
+#home a {
+    text-decoration: none;
+    color: unset;
+}
+
+#about-us {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#about-us a {
+    text-decoration: none;
+    color: unset;
+}
+
+#services {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#services a {
+    text-decoration: none;
+    color: unset;
+}
+
+#track {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#track a {
+    text-decoration: none;
+    color: unset;
+}
+
+#contact {
+    text-align: center;
+    color: black;
+    font-size: 18px;
+    font-family: 'Quicksand';
+    font-weight: 400;
+    word-wrap: break-word;
+}
+
+#contact a {
+    text-decoration: none;
+    color: unset;
+}
+
+#get-started-btn {
+    text-decoration: none;
+    color: unset;
+    padding: 16px 30px;
+    background: #7990FB;
+    border-radius: 50px;
+    border: 1px solid #848586;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 20px;
+    display: flex;
+}
+
+#get-started-text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    font-family: 'Quicksand';
+    font-weight: 500;
+    word-wrap: break-word;
+}
